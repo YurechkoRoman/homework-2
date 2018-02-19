@@ -1,0 +1,36 @@
+body {background-color: #3b3f45; font-family: “Trebuchet MS”, Trebuchet, Arial, sans-serif;
+	  text-align: center;
+	  margin: 0;}
+
+header {background-color: #4a4f56;
+		color: #eb7e7f;
+		margin: 0 auto;}
+
+
+h1 {margin: 0;}
+
+main {background-color: #3b3f45;
+	width: 100%;
+	padding: 20px 0 40px; margin: auto;}
+.diner_list {margin: 50px auto;}
+.diner_button {margin: 50px auto 0;
+			padding: 10px 0;
+			color: #eb7e7f}
+
+.diner_item {border-bottom: 2px solid white;
+	border-top: 2px solid white;
+	background-color: #625e77; padding: 6px;
+	width: 500px; margin: 0; }
+
+input[type="checkbox"]:checked + span {
+    text-decoration: line-through;
+    color: #F3ECC8;
+    transition: .4s;
+
+
+
+
+
+
+
+
